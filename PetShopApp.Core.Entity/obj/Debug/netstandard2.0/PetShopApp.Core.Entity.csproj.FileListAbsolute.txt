@@ -1,0 +1,9 @@
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\bin\Debug\netstandard2.0\PetShopApp.Core.Entity.deps.json
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\bin\Debug\netstandard2.0\PetShopApp.Core.Entity.dll
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\bin\Debug\netstandard2.0\PetShopApp.Core.Entity.pdb
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\obj\Debug\netstandard2.0\PetShopApp.Core.Entity.csprojAssemblyReference.cache
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\obj\Debug\netstandard2.0\PetShopApp.Core.Entity.AssemblyInfoInputs.cache
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\obj\Debug\netstandard2.0\PetShopApp.Core.Entity.AssemblyInfo.cs
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\obj\Debug\netstandard2.0\PetShopApp.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\obj\Debug\netstandard2.0\PetShopApp.Core.Entity.dll
+C:\Visual Studio Work\PetShopApp\PetShopApp.Core.Entity\obj\Debug\netstandard2.0\PetShopApp.Core.Entity.pdb
