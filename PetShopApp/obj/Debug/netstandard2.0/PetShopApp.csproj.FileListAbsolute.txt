@@ -1,4 +1,0 @@
-C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp\obj\Debug\netstandard2.0\PetShopApp.csprojAssemblyReference.cache
-C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp\obj\Debug\netstandard2.0\PetShopApp.AssemblyInfoInputs.cache
-C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp\obj\Debug\netstandard2.0\PetShopApp.AssemblyInfo.cs
-C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp\obj\Debug\netstandard2.0\PetShopApp.csproj.CoreCompileInputs.cache
