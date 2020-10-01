@@ -1,0 +1,14 @@
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\bin\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.deps.json
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\bin\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.dll
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\bin\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.pdb
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\bin\Debug\netstandard2.0\PetShopApp.Core.dll
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\bin\Debug\netstandard2.0\PetShopApp.Core.Entity.dll
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\bin\Debug\netstandard2.0\PetShopApp.Core.pdb
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\bin\Debug\netstandard2.0\PetShopApp.Core.Entity.pdb
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\obj\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\obj\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\obj\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\obj\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\obj\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\obj\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.dll
+C:\Visual Studio Work\PetShopAppRestAPI\PetShopApp.Infrastructure.Static.Data\obj\Debug\netstandard2.0\PetShopApp.Infrastructure.Static.Data.pdb

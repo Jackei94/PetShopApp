@@ -99,8 +99,8 @@
     },
     "PetShopApp.Core/1.0.0": {
       "type": "project",
-      "path": "../CustomerApp.Core/PetShopApp.Core.csproj",
-      "msbuildProject": "../CustomerApp.Core/PetShopApp.Core.csproj"
+      "path": "../PetShopApp.Core/PetShopApp.Core.csproj",
+      "msbuildProject": "../PetShopApp.Core/PetShopApp.Core.csproj"
     },
     "PetShopApp.Core.Entity/1.0.0": {
       "type": "project",
@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp\\PetShopApp.csproj",
+      "projectUniqueName": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp\\PetShopApp.csproj",
       "projectName": "PetShopApp",
-      "projectPath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp\\PetShopApp.csproj",
+      "projectPath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp\\PetShopApp.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp\\obj\\",
+      "outputPath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +148,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Visual Studio Work\\PetShopApp\\CustomerApp.Core\\PetShopApp.Core.csproj": {
-              "projectPath": "C:\\Visual Studio Work\\PetShopApp\\CustomerApp.Core\\PetShopApp.Core.csproj"
+            "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj": {
+              "projectPath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj"
             },
-            "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj": {
-              "projectPath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj"
+            "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core\\PetShopApp.Core.csproj": {
+              "projectPath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core\\PetShopApp.Core.csproj"
             },
-            "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Infrastructure.Static.Data\\PetShopApp.Infrastructure.Static.Data.csproj": {
-              "projectPath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Infrastructure.Static.Data\\PetShopApp.Infrastructure.Static.Data.csproj"
+            "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Infrastructure.Static.Data\\PetShopApp.Infrastructure.Static.Data.csproj": {
+              "projectPath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Infrastructure.Static.Data\\PetShopApp.Infrastructure.Static.Data.csproj"
             }
           }
         }
@@ -193,7 +193,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
