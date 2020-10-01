@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jufZOr0ihWnRjMu/6Z44rX2BzfZBJuC92yaWVeUONiSS/eBu4JN8TYIh/6+p0r4oeN8E8EinEuM9+j2Dw32Few==",
+  "dgSpecHash": "S+1S+b/4+Y8FGI2g4BW3G03DRgpGRBvY1YmyxVIRJUsLb9HoIZpgrSmnGXhc3pLS0S5I0+Emc8G7Hukq3rGJDQ==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Infrastructure.Static.Data\\PetShopApp.Infrastructure.Static.Data.csproj",
+  "projectFilePath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Infrastructure.Static.Data\\PetShopApp.Infrastructure.Static.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

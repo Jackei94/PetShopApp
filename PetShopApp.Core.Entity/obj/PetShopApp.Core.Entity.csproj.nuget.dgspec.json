@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj": {}
+    "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj": {
+    "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj",
+        "projectUniqueName": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj",
         "projectName": "PetShopApp.Core.Entity",
-        "projectPath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj",
+        "projectPath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj",
         "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\obj\\",
+        "outputPath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
