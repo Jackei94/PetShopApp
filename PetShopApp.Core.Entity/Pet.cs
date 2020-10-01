@@ -11,7 +11,7 @@ namespace PetShopApp.Core.Entity
 
         public string Name { get; set; }
 
-        public String Type { get; set; }
+        public string Type { get; set; }
 
         public DateTime Birthdate { get; set; }
 
@@ -22,5 +22,9 @@ namespace PetShopApp.Core.Entity
         public string PreviousOwner { get; set; }
 
         public double Price { get; set; }
+
+        public List<Pet> Owners { get; set; }
+
+        public List<Pet> PetTypes { get; set; }
     }
 }

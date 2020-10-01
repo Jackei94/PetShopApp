@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PwqY/GaWCzuOhUgpWDzi8hic2QRXhedFhIPSbojsD6sYt6kPf3P0keSrxABkMl9HJLZic6M2dVQzZw2S7zmmFg==",
+  "dgSpecHash": "qZf4PW4NsrYMb6KQXKD3oas/J0bRJCKcAxQ6gQgUItxjHD9sHOid5316URTuqro5cG6j9n9l80Qf7+En6jVP4Q==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio Work\\PetShopApp\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj",
+  "projectFilePath": "C:\\Visual Studio Work\\PetShopAppRestAPI\\PetShopApp.Core.Entity\\PetShopApp.Core.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jacob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Jacob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
